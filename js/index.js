@@ -1,7 +1,8 @@
 // # ------------------------ Setting Up Character's Data ------------------------ #
 const hero = {
     name : "Rukia Kuchiki",
-    image : "../img/hero/rukia.jpg",
+    image : "https://ulises-justo-saucedo.github.io/combat-sample-for-swordboundsouls/img/hero/rukia.jpg",
+    //image : "../img/hero/rukia.jpg",
     hp : 250,
     atk  : 10,
     def  : 10
@@ -9,7 +10,8 @@ const hero = {
 
 const hollow = {
     name : "Hollow",
-    image : "../img/hollow/hollow.jpg",
+    image : "https://ulises-justo-saucedo.github.io/combat-sample-for-swordboundsouls/img/hollow/hollow.jpg",
+    //image : "../img/hollow/hollow.jpg",
     hp : 150,
     atk  : 5,
     def  : 20
